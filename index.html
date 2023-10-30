@@ -1,0 +1,28 @@
+---
+layout: default
+pagination: 
+  enabled: true
+---
+<div class="home"></div>
+
+<div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }});"{% endif %}>
+  <div class="scrim {% if site.cover %}has-cover{% endif %}">
+    <header class="site-header">
+      <h1 class="title">{{ site.title }}</h1>
+      {% if site.subtitle %}<p class="subtitle">A <span class="typing" style="font-weight: 300; color:#e4dde6"></span> Phd Student</p>{% endif %}
+    </header>
+  </div>
+</div>
+
+
+
+<!-- typed.js class -->
+  <script src="assets/vendor/typed.js/typed.min.js"></script>
+  <script type="text/javascript">
+    var typed = new Typed('.typing',{
+      strings: ["third-year","third-year"],
+      loop: true,
+      typeSpeed: 10,
+      backSpeed: 10
+    });
+  </script>
