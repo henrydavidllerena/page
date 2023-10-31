@@ -32,7 +32,7 @@ main_nav: true
  <dt>2023:</dt>
   <ul>
   <li>Vulgarization seminar for master students M1 MEEF from Université Paris-Saclay, October, Evry-France.</li>
-  <li>Poster session at  "New trends in mathematical fluids dynamics", June, Grenoble-France.</li>
+  <li>Poster session at  "New trends in mathematical fluids dynamics", June, Grenoble-France, <a href="https://drive.google.com/file/d/1-NaRSYSlm22WQoRPyo7OUt0tbBkyvpQr/view?usp=drive_link" title= "poster"> poster</a></li>
   <li>Séminaire des doctorants en EDP, LMO, Orsay-France. </li>
   <li>Séminaire des doctorants, LaMME, Evry-France. </li>
   <li>Poster session at "Journées de jeunes EDPistes", Tours-France.</li>
@@ -54,13 +54,13 @@ main_nav: true
   <li>Mathflows, Marseille Luminy, December. </li>
   <li>VIII Conferencia de Matemáticos Ecuatorianos en París, September, Paris.</li>
   <li>Summer school on fluids and turbulence, Lyon, June.</li>
-  <li>Mathematical Advances in Geophysical Flows, Marseille Luminy, April.</li>
-  <li>GDR EDP Conférence itinérante, Vannes, February. </li>
+  <li>Mathematical Advances in Geophysical Flows, April, Marseille Luminy.</li>
+  <li>GDR EDP Conférence itinérante,  February, Vannes. </li>
  </ul>
   <dt>2021:</dt>
   <ul>
-  <li>VII Conferencia de Matemáticos Ecuatorianos en París, October. </li>
-  <li>Les Journées du GDR AFHP 2021 -  Besançon, September. </li>
+  <li>VII Conferencia de Matemáticos Ecuatorianos en París, October, Paris. </li>
+  <li>Les Journées du GDR AFHP 2021, Besançon, September. </li>
  </ul>
 </dl>
 <hr>
