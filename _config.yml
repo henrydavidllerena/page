@@ -5,8 +5,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate-v2
 
-exclude:
-  - "/vendor/"
+#exclude:
+ # - "/vendor/"
 
 # Site settings
 title: David Llerena
@@ -18,9 +18,9 @@ description: "<i>In vino veritas</i>"
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
-url: "https:henrydavidllerena.github.io/myblog/" # the subpath of your site, e.g. /blog/
-#url: "" # the base hostname & protocol for your site
-cover: "/assets/amazonia.jpg"
+url: "https:henrydavidllerena.github.io/blog/" # the subpath of your site, e.g. /blog/
+#url: "" # the base   hostname & protocol for your site
+cover: "/assets/cahier.jpeg"
 logo: "/assets/favicon.ico"
 
 # Build settings
