@@ -5,7 +5,7 @@ permalink: /research/
 main_nav: true
 ---
 <hr>
-<h3 id="publication">Publications</h3>
+<h3 id="publication">Papers and preprints</h3>
 <ol>
   <li>Chamorro, D., Llerena, D. & Vergara-Hermosilla , G. Some remarks about the stationary Micropolar fluid equations: existence, regularity and uniqueness .  (2023) Preprint. <a href="https://arxiv.org/abs/2306.04270" title="arxiv">arxiv.</a></li>
   <li>Chamorro, D., Llerena, D. Partial suitable solutions for the micropolar equations and regularity properties.  (2023) Preprint.   <a href="https://arxiv.org/abs/2302.02675" title="arxiv">arxiv.</a></li>
