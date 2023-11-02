@@ -16,12 +16,11 @@ for the Summer school in analysis, AMARUN
 </dt>
 <hr>
 <h3 id="TD">Teaching experience</h3> 
- I was in charge of the following exercises lessons (TD's)
 <ul>
  <li> <dt>Sept 2022 - April 2023 (54h): </dt> 
       <ol>
          <li> "Langage Mathématique" for 1st year undergraduates in mathematics, Université d'Evry.</li>
-         <li> Mathematical techniques for 2nd year undergraduates in chemistry , Université d'Evry.  (Linear algebra and multivariable calculus) </li>
+         <li> Mathematical techniques for 2nd year undergraduates in chemistry (Linear algebra and multivariable calculus)  , Université d'Evry.  </li>
       </ol>
  </li>
 
@@ -29,8 +28,8 @@ for the Summer school in analysis, AMARUN
    <ol>
      <li> Mathematical techniques for 2nd year undergraduates in economy, Université d'Evry. </li>
      <li> "Langage Mathématique" for 1st year undergraduates in mathematics, Université d'Evry.</li>
-     <li> Mathematical techniques for 2nd year undergraduates in chemistry, (Linear algebra and multivariable calculus), Université d'Evry.</li> 
-      <li> Mathematical techniques for 2nd year undergraduates in physics, Université d'Evry. (Convergence of sequences and series) </li>
+     <li> Mathematical techniques for 2nd year undergraduates in chemistry (Linear algebra and multivariable calculus), Université d'Evry.</li> 
+      <li> Mathematical techniques for 2nd year undergraduates in physics (Convergence of sequences and series),  Université d'Evry.</li>
     </ol>
   </li>
 </ul>
