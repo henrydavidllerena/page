@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 main_nav: true
 ---
-<dt>In Sept 2023 I gave a mini-cours (online) on the local regularity of the Navier-Stokes equations for
+<dt>In Sept 2023 I gave a mini-course (online) on the local regularity of the Navier-Stokes equations for
 for the Summer school in analysis, AMARUN
   <ol>
     <li> Lection 1</li>
