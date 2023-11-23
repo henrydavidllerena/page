@@ -5,7 +5,7 @@ permalink: /about me/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/david.gif "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/david.gif "Me"){:.profile}
 
 I am a PhD student at the <a href="http://www.math-evry.cnrs.fr/doku.php" title="LaMME"> Laboratoire de Mathématiques et Modélisation d'Évry</a> (LaMME), working under the supervision of <b>Diego Chamorro</b> and <b>Pierre-Gilles Lemarié-Rieusset</b>. 
 
