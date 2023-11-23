@@ -215,7 +215,8 @@ models:
         label: Main Nav
       - type: image
         name: cover
-        label: Cover
+        label: Cover Image
+      
   post:
     type: page
     label: Post

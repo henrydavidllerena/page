@@ -216,6 +216,7 @@ models:
       - type: image
         name: cover
         label: Cover Image
+      
   post:
     type: page
     label: Post
