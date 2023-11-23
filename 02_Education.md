@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-cover: "/assets/quito.JPEG"
+cover: "/assets/cahier.jpeg"
 permalink: /CV/
 main_nav: true
 
