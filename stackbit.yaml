@@ -213,6 +213,9 @@ models:
       - type: boolean
         name: main_nav
         label: Main Nav
+      - type: image
+        name: cover
+        label: Cover Image
   post:
     type: page
     label: Post
