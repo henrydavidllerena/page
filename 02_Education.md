@@ -1,10 +1,13 @@
 ---
 layout: page
 title: CV
+cover: "/assets/quito.jpeg"
 permalink: /CV/
 main_nav: true
-cover: "/assets/quito.jpeg"
+
 ---
+
+
 <i>My full name is Henry David Llerena Montenegro, sometimes you could find me as Henry instead of David. 
 </i> 
 <hr>
