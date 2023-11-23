@@ -3,7 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 main_nav: true
-cover: "/assets/quito.jpeg"
+
 ---
 <hr>
 <h3 id="publication">Papers and preprints</h3>
