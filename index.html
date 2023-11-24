@@ -4,16 +4,53 @@ pagination:
   enabled: true
 ---
 
-<div class="home"></div>
-
+<header class="site-header">
 <div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }});"{% endif %}>
   <div class="scrim {% if site.cover %}has-cover{% endif %}">
-    <header class="site-header">
-      <h1 class="title">{{ site.title }}</h1>
-      {% if site.subtitle %}<p class="subtitle"> I am a <span class="typing" style="font-weight: 300; color:#e4dde6"></span> PhD Student</p>{% endif %}
-    </header>
+    <h1 class="title">{{ site.title }}</h1>
+    {% if site.subtitle %}<p class="subtitle"> I am a <span class="typing" style="font-weight: 300; color:#e4dde6"></span> PhD Student</p>{% endif %}
   </div>
 </div>
+</header>
+
+<style>
+  .container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+img {
+  max-width: 200%;
+  max-height: 200%;
+}
+
+.text {
+  font-size: 15px;
+  padding-left: 12px;
+}
+  </style>
+
+{% include page_divider.html %}
+
+  <article>
+  <div class="wrapper">
+    <div class="container">
+      <div class="text">
+        I am PhD Student at the <a href="http://www.math-evry.cnrs.fr/doku.php" title="LaMME"> Laboratoire de Mathématiques
+        et Modélisation d'Évry</a> (LaMME), working under the supervision of <b>Diego Chamorro</b> and <b>Pierre-Gilles 
+        Lemarié-Rieusset</b>. <br> 
+         <br>
+        My research interests primarily involves the local regularity of solutions for models derived from fundamental
+         fluid mechanics, such as the Navier-Stokes equations, MHD equations, and micropolar equations.  .    
+      </div>
+      <div class="image">
+        <img src="/assets/david.gif" alt="alt text" title="Me" class="profile" />
+      </div>
+    </div>
+  </div>
+</article>
+
 
 
 <!-- typed.js class -->
