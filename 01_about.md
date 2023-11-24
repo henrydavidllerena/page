@@ -2,7 +2,7 @@
 layout: page
 title: About me
 permalink: /about me/
-main_nav: false
+main_nav: true
 ---
 
 ![alt text]({{ site.baseurl }}/assets/david.gif "Me"){:.profile}
