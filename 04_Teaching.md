@@ -7,12 +7,11 @@ main_nav: true
 <dt>In Sept 2023 I gave a mini-course (online) on the local regularity of the Navier-Stokes equations for
 for the Summer school in analysis, AMARUN
   <ol>
-    <li> Lection 1</li>
-    <li> Lection 2</li>
-    <li> Lection 3</li>
-    <li> Lection 4</li>
-    <li> Lection 5</li>
-  </ol>
+    <li> Lecture 1</li>
+    <li> Lecture 2</li>
+    <li> Lecture 3</li>
+    <li> Lecture 4</li>
+   </ol>
 </dt>
 <hr>
 <h3 id="TD">Teaching experience</h3> 
