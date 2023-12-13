@@ -34,6 +34,7 @@ main_nav: true
 <dl>
  <dt>2023:</dt>
   <ul>
+  <li>XIV Jornada de matemáticos ecuatorianos, November, Paris-France</a></li>
   <li>Vulgarization seminar for master students M1 MEEF from Université Paris-Saclay, October, Evry-France.</li>
   <li>Poster session at  "New trends in mathematical fluids dynamics", June, Grenoble-France, <a href="https://drive.google.com/file/d/1-NaRSYSlm22WQoRPyo7OUt0tbBkyvpQr/view?usp=drive_link" title= "poster"> poster</a></li>
   <li>Séminaire des doctorants en EDP, LMO, Orsay-France. </li>
@@ -43,6 +44,7 @@ main_nav: true
   </ul>
   <dt>2022:</dt>
   <ul>
+  <li>XIII Jornada de matemáticos ecuatorianos, September, Paris-France</a></li>
   <li>Partial regularity theory for the micropolar fluids equations, Conferencia internacional en analisis y ecuaciones en derivadas parciales,  April, Quito- Ecuador</li> </ul> 
 </dl>
 <hr>
