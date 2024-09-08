@@ -1,7 +1,7 @@
 baseURL: "https://henrydavidllerena.github.io/page/"
 languageCode: "en-us"
 title: "David Llerena"
-dirThemes: hugo-profile
+Theme: hugo-profile
 
 outputs:
   home:
