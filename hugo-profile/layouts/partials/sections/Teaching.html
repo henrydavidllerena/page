@@ -1,0 +1,40 @@
+{{ if .Site.Params.Teaching.enable | default false }}
+<section id="Teaching" class="py-5">
+    <div class="container">
+        <h3 class="text-center">{{ .Site.Params.Teaching.title | default "Teaching" }}</h3>
+        <div class="row justify-content-center py-5">
+            <div class="col-md-9">  
+               <dt > As a tutor at Universite d'Evry:.</dt>
+
+                <ul>
+                <li> Sept 2022 - April 2024 :
+                    <ol>
+                    <li> "Langage Mathématique" for 1st year undergraduates in mathematics, Université d'Evry.</li>
+                    <li> Mathematical techniques for 2nd year undergraduates in chemistry (Linear algebra and multivariable calculus)  , Université d'Evry.  </li>
+                    </ol>
+                </li>
+    
+                <li> Oct 2021 - April 2022 : 
+                <ol>
+                <li> Mathematical techniques for 2nd year undergraduates in economy, Université d'Evry. </li>
+                <li> Langage Mathématique for 1st year undergraduates in mathematics, Université d'Evry.</li>
+                <li> Mathematical techniques for 2nd year undergraduates in chemistry (Linear algebra and multivariable calculus), Université d'Evry.</li> 
+                <li> Mathematical techniques for 2nd year undergraduates in physics (Convergence of sequences and series),  Université d'Evry.</li>
+                </ol>
+                </li>
+                </ul>
+                <dl> Summer School (In spanish): </dl>
+                In Sept 2023 I gave a mini-course (online) on the local regularity of the Navier-Stokes equations for
+                for the Summer school in analysis, AMARUN
+                    <ol>
+                    <li> Lecture 1</li>
+                    <li> Lecture 2</li>
+                    <li> Lecture 3</li>
+                    <li> Lecture 4</li>
+                    </ol>
+               
+             </div>
+        </div>
+    </div>
+</section>
+{{ end }}

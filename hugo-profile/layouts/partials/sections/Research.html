@@ -1,0 +1,51 @@
+{{ if .Site.Params.research.enable | default false }}
+<section id="research" class="py-5">
+    <div class="container">
+        <h3 class="text-center">{{ .Site.Params.research.title | default "Research" }}</h3>
+        <div class="row justify-content-center py-5">
+        {{ $indexMenu := .Site.Params.research.index }}
+        {{ range $index, $element := .Site.Params.research.items }}
+            <div class="row row align-items-center justify-content-center">
+                {{ if $indexMenu }}
+                <div class="col-md-9">
+                    <div class="py-1"> 
+                    <h6 id="h6">{{ add $index 1 }}{{"."}} {{.name }}</h6>
+                    </div>
+                    <div class="py-1"> 
+                         <h6> {{ .journal }}{{", "}}{{ .date }}</h6> 
+                    </div>
+                   
+                    <div class="py-1 research-content">
+                         <h7><em>{{ .content | markdownify}}</em></h7>
+                    </div> 
+                    {{ if .url1 }}
+                        {{ if .url2 }}
+                        <div class="py-1">
+                        <a href="{{ .url1 }}" target="_blank">
+                         <i><small>{{ "preprint" }}</small> </i> </a> {{","}}
+                        <a href="{{ .url2 }}" target="_blank">
+                            <i><small>{{ "Journal" }}</small> </i> </a>
+                        </div> 
+                        {{else}}   
+                        <div class="py-1">
+                            <a href="{{ .url1 }}" target="_blank">
+                             <i><small>{{ "preprint" }}</small> </i> </a>                        
+                         </div> 
+                        {{end}} 
+                     {{else}} 
+                        {{ if .url2 }}
+                         <div class="py-1">
+                          <a href="{{ .url2 }}" target="_blank">
+                          <i><small>{{ "Journal" }}</small> </i> </a>
+                        </div> 
+                        {{end}}
+                    {{end}}                          
+                </div> 
+                {{ end }}               
+            </div>
+        {{end}}   
+    </div>
+   
+    </div>
+</section>
+{{ end }}

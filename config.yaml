@@ -1,6 +1,6 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://henrydavidllerena.github.io/page/"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "David Llerena"
 dirThemes: hugo-profile
 
 outputs:
