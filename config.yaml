@@ -50,8 +50,6 @@ markup:
     #   url: /#
     #   parent: dropdown
     #   weight: 2
-disableKinds:
-- taxonomy
 
 params:
   title: "Personal Web Page"
