@@ -2,6 +2,7 @@ baseURL: "https://henrydavidllerena.github.io/page/"
 languageCode: "en-us"
 title: "David Llerena"
 
+
 outputs:
   home:
     - "HTML"
