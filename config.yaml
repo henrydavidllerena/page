@@ -188,7 +188,7 @@ params:
         school:
           name: "Université Paris-Saclay,  Laboratoire de Mathématiques et Modélisation d'Évry"
           url: "http://www.math-evry.cnrs.fr/doku.php"
-        date: "2024 - present"
+        date: "2021- present"
 
         content: |-
           Thesis title: Concentration of singularities for dissipative solutions of the Navier-Stokes equations and interdependence of variables for some fluid mechanics equations.
@@ -198,8 +198,10 @@ params:
         school:
           name: "Université Paris Saclay"
           url: "https://www.imo.universite-paris-saclay.fr/fr/etudiants/masters/mathematiques-et-applications/m2/arithmetique-analyse-geometrie/"
-        date: "2023 - 2024"
+        date: "2019 - 2021"
         content: |-
+          M1 Master 1 - Mathématiques et interactions,
+          
           M2 Analyse, Arithmétique, Géométrie 
 
           Master thesis: Étude de la régularité pour quelques équations de la mécanique des fluides.
