@@ -132,7 +132,7 @@ params:
     title: "David Llerena."
     subtitle: "Phd Student"
     content: " "
-    image: 
+    image: "/images/david.gif"
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -151,7 +151,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/david.gif"
+    image: 
     content: |-
       I am a PhD student at the <a href="http://www.math-evry.cnrs.fr/doku.php" title="LaMME"> Laboratoire de Mathématiques et Modélisation d'Évry</a> (LaMME), working under the supervision of <b>Diego Chamorro</b> and <b>Pierre-Gilles Lemarié-Rieusset</b>. 
       My research interests primarily involves the local regularity of solutions for models derived from fundamental fluid mechanics, such as the Navier-Stokes equations, MHD equations, and micropolar equations. 
@@ -201,7 +201,7 @@ params:
         date: "2019 - 2021"
         content: |-
           M1 Master 1 - Mathématiques et interactions,
-          
+
           M2 Analyse, Arithmétique, Géométrie 
 
           Master thesis: Étude de la régularité pour quelques équations de la mécanique des fluides.
