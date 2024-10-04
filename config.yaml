@@ -188,10 +188,10 @@ params:
         school:
           name: "Université Paris-Saclay,  Laboratoire de Mathématiques et Modélisation d'Évry"
           url: "http://www.math-evry.cnrs.fr/doku.php"
-        date: "2021- present"
+        date: "2021- 2024"
 
         content: |-
-          Thesis title: Concentration of singularities for dissipative solutions of the Navier-Stokes equations and interdependence of variables for some fluid mechanics equations.
+          Thesis title: Sur l'interdépendance des variables dans l'étude de quelques équations de la mécanique des fluides.
 
           Advisors: Diego Chamorro and Pierre-Gilles Lemarié-Rieusset. 
       - title: "Master degree in Mathematics"
