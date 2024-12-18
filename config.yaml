@@ -1,7 +1,13 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://davidllerena.netlify.app/"
 languageCode: "en-us"
+<<<<<<< HEAD
 title: "Hugo Profile"
 dirThemes: hugo-profile
+=======
+title: "David Llerena"
+
+
+>>>>>>> 625aa591e716577a727be5ddd28a57d63a410372
 
 outputs:
   home:
@@ -131,7 +137,7 @@ params:
     title: "David Llerena."
     subtitle: "Phd"
     content: " "
-    image: 
+    image: "/images/david.gif"
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
@@ -150,7 +156,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/david.gif"
+    image: 
     content: |-
       I am a PhD from the the <a href="http://www.math-evry.cnrs.fr/doku.php" title="LaMME"> Laboratoire de Mathématiques et Modélisation d'Évry</a> (LaMME), working under the supervision of <b>Diego Chamorro</b> and <b>Pierre-Gilles Lemarié-Rieusset</b>. 
       My research interests primarily involves the local regularity of solutions for models derived from fundamental fluid mechanics, such as the Navier-Stokes equations, MHD equations, and micropolar equations. 
@@ -187,19 +193,21 @@ params:
         school:
           name: "Université Paris-Saclay,  Laboratoire de Mathématiques et Modélisation d'Évry"
           url: "http://www.math-evry.cnrs.fr/doku.php"
-        date: "2024 - present"
+        date: "2021- 2024"
 
         content: |-
-          Thesis title: Concentration of singularities for dissipative solutions of the Navier-Stokes equations and interdependence of variables for some fluid mechanics equations.
+          Thesis title: Sur l'interdépendance des variables dans l'étude de quelques équations de la mécanique des fluides.
 
           Advisors: Diego Chamorro and Pierre-Gilles Lemarié-Rieusset. 
       - title: "Master degree in Mathematics"
         school:
           name: "Université Paris Saclay"
           url: "https://www.imo.universite-paris-saclay.fr/fr/etudiants/masters/mathematiques-et-applications/m2/arithmetique-analyse-geometrie/"
-        date: "2023 - 2024"
+        date: "2019 - 2021"
         content: |-
-          M2 Analyse, Arithmétique, Géométrie 
+          M1 Mathématiques et interactions, site Evry
+
+          M2 Analyse, Arithmétique, Géométrie, site Orsay
 
           Master thesis: Étude de la régularité pour quelques équations de la mécanique des fluides.
        
@@ -289,11 +297,11 @@ params:
       enable: false
       disableFeaturedImage: false
     socialNetworks:
-      github: https://github.com
-      linkedin: https://linkedin.com
-      twitter: https://twitter.com
-      instagram: https://instagram.com
-      facebook: https://facebook.com
+      github: 
+      linkedin: 
+      twitter: 
+      instagram: 
+      facebook: 
 
   # List pages like blogs and posts
   listPages:
