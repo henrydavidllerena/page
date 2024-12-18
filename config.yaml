@@ -1,7 +1,7 @@
 baseURL: "https://hugo-profile.netlify.app"
 languageCode: "en-us"
 title: "Hugo Profile"
-theme: hugo-profile
+dirThemes: hugo-profile
 
 outputs:
   home:
@@ -129,7 +129,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "David Llerena."
-    subtitle: "Phd Student"
+    subtitle: "Phd"
     content: " "
     image: 
     bottomImage:
@@ -152,7 +152,7 @@ params:
     title: "About Me"
     image: "/images/david.gif"
     content: |-
-      I am a PhD student at the <a href="http://www.math-evry.cnrs.fr/doku.php" title="LaMME"> Laboratoire de Mathématiques et Modélisation d'Évry</a> (LaMME), working under the supervision of <b>Diego Chamorro</b> and <b>Pierre-Gilles Lemarié-Rieusset</b>. 
+      I am a PhD from the the <a href="http://www.math-evry.cnrs.fr/doku.php" title="LaMME"> Laboratoire de Mathématiques et Modélisation d'Évry</a> (LaMME), working under the supervision of <b>Diego Chamorro</b> and <b>Pierre-Gilles Lemarié-Rieusset</b>. 
       My research interests primarily involves the local regularity of solutions for models derived from fundamental fluid mechanics, such as the Navier-Stokes equations, MHD equations, and micropolar equations. 
     skills:
       enable: true
