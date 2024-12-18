@@ -154,8 +154,10 @@ params:
     title: "About Me"
     image: "/images/david.gif"
     content: |-
-      I am a PhD from the the <a href="http://www.math-evry.cnrs.fr/doku.php" title="LaMME"> Laboratoire de Mathématiques et Modélisation d'Évry</a> (LaMME), working under the supervision of <b>Diego Chamorro</b> and <b>Pierre-Gilles Lemarié-Rieusset</b>. 
-      My research interests primarily involves the local regularity of solutions for models derived from fundamental fluid mechanics, such as the Navier-Stokes equations, MHD equations, and micropolar equations. 
+      I am currently seeking a postdoctoral position after successfully defending my Ph.D. in December 2024 at the <a href="http://www.math-evry.cnrs.fr/doku.php" title="LaMME">Laboratoire de Mathématiques et Modélisation d'Évry</a> (LaMME). My doctoral research was conducted under the supervision of <b>Diego Chamorro</b> and <b>Pierre-Gilles Lemarié-Rieusset</b>.
+
+
+      My research interests focus on the local regularity theories of weak solutions for models derived from fundamental fluid mechanics, including the Navier-Stokes equations, MHD equations, and micropolar equations.
     skills:
       enable: true
       title: 
@@ -185,16 +187,17 @@ params:
     #title: 
     index: false
     items:
-      - title: "Pursuing a Ph.D in Mathematics "
+      - title: "h.D in Mathematics "
         school:
           name: "Université Paris-Saclay,  Laboratoire de Mathématiques et Modélisation d'Évry"
           url: "http://www.math-evry.cnrs.fr/doku.php"
-        date: "2024 - present"
+        date: "2021 - 2024"
 
         content: |-
-          Thesis title: Concentration of singularities for dissipative solutions of the Navier-Stokes equations and interdependence of variables for some fluid mechanics equations.
+          Thesis title:On the interdependence of variables in the study of some equations in fluid mechanics.
 
           Advisors: Diego Chamorro and Pierre-Gilles Lemarié-Rieusset. 
+
       - title: "Master degree in Mathematics"
         school:
           name: "Université Paris Saclay"
