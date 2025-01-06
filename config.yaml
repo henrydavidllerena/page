@@ -1,9 +1,5 @@
 baseURL: "https://davidllerena.netlify.app"
 languageCode: "en-us"
-
-
-
-
 outputs:
   home:
     - "HTML"
