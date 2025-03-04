@@ -182,7 +182,7 @@ params:
     #title: 
     index: false
     items:
-      - title: "Ph.D in Mathematics "
+      - title: "Ph.D in Mathematics"
         school:
           name: "Université Paris-Saclay,  Laboratoire de Mathématiques et Modélisation d'Évry"
           url: "http://www.math-evry.cnrs.fr/doku.php"
@@ -209,7 +209,7 @@ params:
           url: "https://www.amarun.org/images/amarun/materiales/tesis-maestria/Llerena_2021.pdf"
       - title: "BS.c. in Applied Mathematics"
         school:
-          name: " Universidad Central del Ecuador"
+          name: "Universidad Central del Ecuador"
           url: "https://www.uce.edu.ec"
           date: 2013-2018
         content: |-
@@ -222,12 +222,12 @@ params:
     # title: "Custom Name"
     index: true
     items: 
-      - name: " Partial regularity and L3-norm concentration effects around possible blow-up points for the micropolar fluid equations."
+      - name: "Partial regularity and L3-norm concentration effects around possible blow-up points for the micropolar fluid equations."
         journal: "Preprint"
         date: "2024"
         url1: "https://hal.science/hal-04600217"
         content: "Joint work with: Diego Chamorro"
-      - name: " Partial suitable solutions for the micropolar equations and regularity properties.  "
+      - name: "Partial suitable solutions for the micropolar equations and regularity properties.  "
         journal: "Accepted in: Annales Mathématiques Blaise Pascal"
         date: "2024"
         url1: "https://hal.science/hal-03971925v1/document"
@@ -251,11 +251,11 @@ params:
         url1: "https://arxiv.org/pdf/2111.06653.pdf"
         url2: "https://link.springer.com/article/10.1007/s41808-022-00163-y" 
         content: "Joint work with Diego Chamorro"
-      - name: " Approximate identities for the Schwartz space"
+      - name: "Approximate identities for the Schwartz space"
         journal: "Analysis and Mathematical Physics "
         date: "2021"
         url2: "https://link.springer.com/article/10.1007/s13324-020-00456-2"
-        content: "Joint work with  Boris Alvarez-Samaniego and  Wilson Alvarez-Samaniego "
+        content: "Joint work with  Boris Alvarez-Samaniego and  Wilson Alvarez-Samaniego"
 
   conference:
     enable: true
