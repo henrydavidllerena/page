@@ -1,0 +1,7 @@
+[build]
+  command = "hugo --minify"  # Comando para construir el sitio
+  publish = "public"  # Carpeta de salida de Hugo
+
+[build.environment]
+  HUGO_VERSION = "0.120.4"  # Usa una versión estable
+  HUGO_EXTENDED = "true"  # Necesario si usas SCSS/SASS
