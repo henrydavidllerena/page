@@ -149,7 +149,7 @@ params:
     title: "About Me"
     image: "/images/david.gif"
     content: |-
-      I am currently seeking a postdoctoral position after successfully defending my Ph.D. in December 2024 at the Laboratoire de Mathématiques et Modélisation d'Évry (LaMME). My doctoral research was conducted under the supervision of Diego Chamorro and Pierre-Gilles Lemarié-Rieusset.
+      I defended my Ph.D. in December 2024 at the Laboratoire de Mathématiques et Modélisation d'Évry (LaMME). My doctoral research was conducted under the supervision of Diego Chamorro and Pierre-Gilles Lemarié-Rieusset.
 
       My research interests focus on the local regularity theory of weak solutions for models derived from fundamental fluid mechanics, including the Navier-Stokes equations, MHD equations, and micropolar equations
     skills:
